@@ -4,3 +4,4 @@ Git is a mutable index called stage.
 Git tracks changes of files.
 Git push to remote.
 Git hello git2.
+Git add with branch second.
